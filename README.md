@@ -11,8 +11,7 @@
 |           | extra lab: logistic regression     | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yaqoub2/AI_intro_KAUST/blob/main/Xlab_logistic_regression(ex).ipynb) |
 | **Day 3** | Neural Networks from scratch  |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ii0vu-KqRmkdjoiPDzN4qhCn31ZJnwjz?usp=sharing) |
 |           | Neural Networks Pytorch  |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aQlsfzVIFvO4ayv0AZ81kBwPq5tQ7UNM?usp=sharing) |
-| **Day 4** | Logistic Regression Pytorch         |  |
-|           | Auto Encoders         | |
-|           | DCT Compression        |  |
+| **Day 4** | Logistic Regression Pytorch         | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RP6TbOeTrWC40hpBaty1jtmRQGT2pEdR?usp=sharing) |
+|           | Auto Encoders         |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RP6TbOeTrWC40hpBaty1jtmRQGT2pEdR?usp=sharing) |
 
 
