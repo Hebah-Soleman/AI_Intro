@@ -13,5 +13,9 @@
 |           | Neural Networks Pytorch  |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aQlsfzVIFvO4ayv0AZ81kBwPq5tQ7UNM?usp=sharing) |
 | **Day 4** | Logistic Regression Pytorch         | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RP6TbOeTrWC40hpBaty1jtmRQGT2pEdR?usp=sharing) |
 |           | Auto Encoders         |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NyWLBlElPWoGY2yJ1KSxFPJXlJvPkxGd?usp=sharing) |
+| **Review** | Final Review        | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pvOByCdGpW4IL2j2ouFCIWiuV_Y4n390?usp=sharing) |
+|           | NN Iris dataset        |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zL7OwMlqNYvHJnaH3ahzvsbvWOTMdpwD?usp=sharing) |
+|           | LR Breast Cancer dataset        |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z1Pu-1E2zNYh-d1RhmNvs-LnxN88eo7O?usp=sharing) |
+
 
 
