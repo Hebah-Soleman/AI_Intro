@@ -12,6 +12,6 @@
 | **Day 3** | Neural Networks from scratch  |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ii0vu-KqRmkdjoiPDzN4qhCn31ZJnwjz?usp=sharing) |
 |           | Neural Networks Pytorch  |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aQlsfzVIFvO4ayv0AZ81kBwPq5tQ7UNM?usp=sharing) |
 | **Day 4** | Logistic Regression Pytorch         | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RP6TbOeTrWC40hpBaty1jtmRQGT2pEdR?usp=sharing) |
-|           | Auto Encoders         |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RP6TbOeTrWC40hpBaty1jtmRQGT2pEdR?usp=sharing) |
+|           | Auto Encoders         |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NyWLBlElPWoGY2yJ1KSxFPJXlJvPkxGd?usp=sharing) |
 
 
